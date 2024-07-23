@@ -12,7 +12,7 @@ RoLinked was spread primarily through Roblox direct messages.
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [Distribution](./distribution.md)   | Contains information about how the malicious Javascript was distributed, and who it targeted.                      |
 | [Deobfuscation](./deobfuscation.md) | Contains information about how to deobfuscate the obfuscated Javascript.                                           |
-| [Analysis](./analysis.md)           | Contains analysis of the Javascript and the data on (primarily on 2022-07-20).                                     |
+| [Analysis](./analysis.md)           | Contains analysis of the website, and the Javascript (primarily on 2022-07-20).                                    |
 | [Archives](./archives.md)           | Contains links to archives of the malicious Javascript, including deobfuscated versions, and the RoLinked website. |
 
 ## Tools Used
@@ -22,6 +22,7 @@ RoLinked was spread primarily through Roblox direct messages.
 -   [Prettier](https://prettier.io/)
 -   [Mermaid](https://mermaid.js.org/)
 -   [rdap.org](https://client.rdap.org/)
+-   [VirusTotal](https://www.virustotal.com/)
 -   [Internet Archive](https://archive.org/)
 
 ## Credit

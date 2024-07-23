@@ -30,14 +30,6 @@ This is designed to impersonate similar looking messages from genuine bots desig
 
 When you click `Verify Roblox` it takes you to https://rolinked.com.
 
-## Website
-
-The website included simple instructions on how to show the bookmarks bar, drag the script into it, and then execute it on Roblox.
+This website then instructs you to drag a button has simple instructions on how to show the bookmarks bar, drag the script/bookmarklet into it, and then execute it on Roblox.
 
 ![](./assets/website/website.png)
-
-Looking at RDAP record for https://rolinked.com we can see that the domain name is registered through [PSI-USA](https://www.psi-usa.info/), a domain registrar based in Las Vegas.
-
-We can also see from the technical contact that is hosted by Hosterbox, this is backed up by the nameservers `ns70.hosterbox.com` and `ns71.hosterbox.com`. Furthermore on 2024-07-22 the website returned a page informing that the account had been suspended and to contact the hosting provider, which links to https://hosterbox.com/.
-
-![](./assets/website/accountSuspended.png)

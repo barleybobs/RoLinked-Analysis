@@ -2,7 +2,19 @@
 
 # Analysis
 
-## Code Analysis
+## Website
+
+Looking at RDAP record for https://rolinked.com we can see that the domain name is registered through [PSI-USA](https://www.psi-usa.info/), a domain registrar based in Las Vegas.
+
+We can also see from the technical contact that is hosted by Hosterbox, this is backed up by the nameservers `ns70.hosterbox.com` and `ns71.hosterbox.com`. Furthermore on 2024-07-22 the website returned a page informing that the account had been suspended and to contact the hosting provider, which links to [HosterBox](https://hosterbox.com/).
+
+![](./assets/website/accountSuspended.png)
+
+Looking on [VirusTotal](https://www.virustotal.com/) we can see that the domain was registered through [Hostinger](http://www.hostinger.com) on 2024-04-15 and on 2024-05-18 was registered through [PSI-USA](https://www.psi-usa.info/). 
+
+Along with [HosterBox](https://hosterbox.com/) it has also been associated with [Hostinger](http://www.hostinger.com), and [ServerMania](https://www.servermania.com/), which are both hosting companies. It has also been protected with [Cloudflare](https://www.cloudflare.com/), and [Verdina](https://verdina.net/).
+
+## Code
 
 From the deobfuscated code I have created this flowchart which outlines how it works.
 
@@ -83,7 +95,7 @@ flowchart TD
 
 ```
 
-## Friend Request Analysis
+## Friend Request
 
 When the friend request is sent it is sent to the Roblox account id `6045232974`. This account can be found at https://www.roblox.com/users/6045232974/profile, which shows they are called `slimeBallBack7`. Their account appears like this:
 
@@ -91,7 +103,7 @@ When the friend request is sent it is sent to the Roblox account id `6045232974`
 
 This has been the user friended since 2024-06-08. Before that it was the Roblox account id `5762605139`, which has since been terminated.
 
-## Email Analysis
+## Email
 
 This table contains the emails stored in the code that are used to take control of the account. They are all either @hotmail.com or @outlook.com.
 
