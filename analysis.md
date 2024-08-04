@@ -10,9 +10,13 @@ We can also see from the technical contact that is hosted by Hosterbox, this is 
 
 ![](./assets/website/accountSuspended.png)
 
-Looking on [VirusTotal](https://www.virustotal.com/) we can see that the domain was registered through [Hostinger](http://www.hostinger.com) on 2024-04-15 and on 2024-05-18 was registered through [PSI-USA](https://www.psi-usa.info/). 
+On 2024-08-04 the website was operational again. The technical and administrative RDAP records show [HosterBox](https://hosterbox.com/).
+
+Looking on [VirusTotal](https://www.virustotal.com/graph/rolinked.com) we can see that the domain was registered through [Hostinger](http://www.hostinger.com) on 2024-04-15 and on 2024-05-18 was registered through [PSI-USA](https://www.psi-usa.info/).
 
 Along with [HosterBox](https://hosterbox.com/) it has also been associated with [Hostinger](http://www.hostinger.com), and [ServerMania](https://www.servermania.com/), which are both hosting companies. It has also been protected with [Cloudflare](https://www.cloudflare.com/), and [Verdina](https://verdina.net/).
+
+
 
 ## Code
 
@@ -116,6 +120,7 @@ This table contains the emails stored in the code that are used to take control 
 | 2024-07-03 | teresafarmer46@outlook.com                                                                                                                                                                                                                                        |
 | 2024-07-07 | dowmanmelissa83@hotmail.com                                                                                                                                                                                                                                       |
 | 2024-07-15 | albertinaguerrero1971@hotmail.com<br>alwine.lenora_1989@hotmail.com <br>archibaldalexandra64@hotmail.com <br>aldridgeangela13@hotmail.com<br>anitabaldwin50@hotmail.com<br>alicebirch40@hotmail.com<br>archibaldmary94@hotmail.com<br>alyssagilmore09@hotmail.com |
+| 2024-08-04 | goickgnerreb@outlook.com<br>gruettfick0@outlook.com<br>geistbezakr@outlook.com<br>graciamascios@outlook.com                                                                                                                                                       |
 
 ## Popups
 

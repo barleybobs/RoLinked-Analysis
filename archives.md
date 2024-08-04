@@ -18,3 +18,4 @@
 | 2024-07-19 | https://web.archive.org/web/20240719142603/https://rolinked.com/                          | [./archives/2024-07-15](./archives/2024-07-15) | Marked by Cloudflare as suspected phishing |
 | 2024-07-21 | https://web.archive.org/web/20240721153251/https://rolinked.com/cdn-cgi                   | N/A                                            | Error 1101/Worker threw exception returned |
 | 2024-07-22 | https://web.archive.org/web/20240722162206/https://rolinked.com/cgi-sys/suspendedpage.cgi | N/A                                            | HosterBox account suspended                |
+| 2024-08-04 | https://web.archive.org/web/20240804221446/http://rolinked.com/                           | [./archives/2024-08-04](./archives/2024-08-04) | Website back online + New variant          |
